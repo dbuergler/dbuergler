@@ -20,11 +20,11 @@ Love spending time with my family :family:
 <br>
 
 <h2 align="center">Currently Working On</h2>
-<ul>
-  <li>:books:Learning Spring Microservices</li>
-  <li>:football:Creating a website for my fantasy football league</li>
-  <li>:notebook:Studying for my SpringBoot Certification through work</li>
-  <li>:heart_eyes:Creating wonderful user experiences</li>
+<ul align="center" line-style-position="inside">
+  :books:Learning Spring Microservices</li>
+  :football:Creating a website for my fantasy football league</li>
+  :notebook:Studying for my SpringBoot Certification through work</li>
+  :heart_eyes:Creating wonderful user experiences</li>
 </ul>
 
 <br>
@@ -65,14 +65,25 @@ Love spending time with my family :family:
 
 <h2 align="center">My Github Stats</h2>
 
+<div align="center">
+
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbuergler&theme=solarized-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbuergler&theme=solarized-dark)
+
+</div>
 
 <br>
 
 <h2 align="center">My Github Streak Stats</h2>
 
+<div align="center">
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dbuergler&theme=black-ice&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+
+
 
 <!--
 **dbuergler/dbuergler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
