@@ -21,9 +21,8 @@ Love spending time with my family :family:
 
 <h2 align="center">Currently Working On</h2>
 <ul align="center" line-style-position="inside">
-  :books:Learning Spring Microservices</li>
-  :football:Creating a website for my fantasy football league</li>
-  :notebook:Studying for my SpringBoot Certification through work</li>
+  :books:Learning UX Design</li>
+  :notebook:Studying for AWS through work</li>
   :heart_eyes:Creating wonderful user experiences</li>
 </ul>
 
